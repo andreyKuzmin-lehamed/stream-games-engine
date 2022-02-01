@@ -1,6 +1,8 @@
 # stream-games-engine
 Game engine for development games with remote control for stream viewers
 
+Main idea to create usefull web interface for creating and customizing rig, skins and animations of gameobjects (actors, interactive objects, environment, etc.) and creating game levels with customizing game events and other game settings.
+
 # Documentation
 
 ## Classes
