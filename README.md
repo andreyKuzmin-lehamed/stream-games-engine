@@ -3,26 +3,26 @@ Game engine for development games with remote control for stream viewers
 
 # Documentation
 
- ## Classes
+## Classes
 
-  ### GAME
-  ### COLLISION_HANDLER
-  ### ADAPTER
-  ### RENDER
-  ### ANIMATOR
-  ### DATABASE
+## GAME
+## COLLISION_HANDLER
+## ADAPTER
+## RENDER
+## ANIMATOR
+## DATABASE
 
-  ### Actor
-  ### StateMachine
-  ### State
-    #### IdleState
-    #### MoveState
-    #### FightState
-    #### InteractionState
-    #### DeathState
-  ### Rig
-  ### Skin
-  ### Animation
+## Actor
+## StateMachine
+## State
+### IdleState
+### MoveState
+### FightState
+### InteractionState
+### DeathState
+## Rig
+## Skin
+## Animation
 
 
 
