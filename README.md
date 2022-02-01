@@ -3,6 +3,8 @@ Game engine for development games with remote control for stream viewers
 
 Main idea to create usefull web interface for creating and customizing rig, skins and animations of gameobjects (actors, interactive objects, environment, etc.) and creating game levels with customizing game events and other game settings.
 
+Game working with one web window and stream it to your translation by programs like OBS, Streamlabs, etc. and takes response commands from chat (in alpha version from twitch chat only)
+
 # Documentation
 
 ## Classes
