@@ -5,6 +5,16 @@ Main idea to create usefull web interface for creating and customizing rig, skin
 
 Game working with one web window and stream it to your viewers by programs like OBS, Streamlabs, etc. and takes response commands from chat (in alpha version from twitch chat only)
 
+# Rig creator system
+
+Visual constructor for create gameobject rig. Creating container div, what means anchor point for skin images.
+
+Need interface for:
+
+- Create anchor point (div element)
+- Customize anchor position (left and top)
+- Customize anchor rotation (but i think we need 0deg rotation for all anchor points for defaults)
+
 # Documentation
 
 ## Classes
