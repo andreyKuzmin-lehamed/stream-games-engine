@@ -14,6 +14,7 @@ Need interface for:
 - Create anchor point (div element)
 - Customize anchor position (left and top)
 - Customize anchor rotation (but i think we need 0deg rotation for all anchor points for defaults)
+- Save rig to database
 
 # Documentation
 
