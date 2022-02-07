@@ -28,6 +28,7 @@ Static class for detecting all collisions between all gameobjects in every game 
 Static class for receiving remote command from stream viewers.
 ## RENDER
 Static class for rendering every DOM changes in every game cycle iteration.
+class have tasks query
 ## ANIMATOR
 Static class for changing rig positions of all gameobjects in every game cycle iteration.
 ## DATABASE
