@@ -40,37 +40,27 @@
   - **getId**: возврат id.
   - **changeSize**: изменение высоты и/или ширины.
   
-  **AnchorPoint**
+### AnchorPoint
   
-  Поля:
-
+  **Поля:**
 
   - **name**: уникальное (внутри рига) наименование;
 
-
   - **element**: HTML элемент;
-
 
   - **left**: смещение от левого края;
 
-
   - **bottom**: смещение от нижнего края;
-
 
   - **rotate**: градусы вращения;
 
-
   - **duration**: длительность анимации;
-
 
   - **skinElement**: HTML элемент дочернего изображения;
 
-
   - **skinSrc**: путь к дочернему изображению.
 
-
   - **animations**: список анимаций;
-
 
   - **animationPattern**: шаблон объекта анимации;
 
@@ -90,16 +80,26 @@
 
       - **rotation**: градусы вращения в этой ключевой точке.
   
-  Методы:
+  **Методы:**
+  
   - **createElement**
+
   - **changeName**
+
   - **createSkinElement**
+
   - **setSkinSrc**
+
   - **move**
+
   - **changeDuration**
+
   - **addAnimation**
+
   - **removeAnimation**
+
   - **getAnimation**
+
   - **setAnimation
   
   **AnchorPointAnimation**
