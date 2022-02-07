@@ -24,46 +24,35 @@
   **Rig**
   
   Поля:
-  - **id**: уникальный идентификатор.
-  - **name**: уникальное наименование.
-  - **element**
-        HTML элемент.
-  - **height**
-        Высота.
-  - **width**
-        Ширина
+  - **id**: уникальный идентификатор;
+  - **name**: уникальное наименование;
+  - **element**: HTML элемент;
+  - **height**: высота;
+  - **width**: ширина.
     
   Методы:
-    - **createElement**
-        Создание HTML элемента.
-    - **save**
-        Сохранение в базу данных.
-    - **load**
-        Загрузка из базы данных.
-    - **remove**
-        Удаление из базы данных.
-    - **changeName**
-        Смена наименования.
-    - **getName**
-        Возврат наименования.
-    - **getId**
-        Возврат id.
-    - **changeSize**
-        Изменение высоты и/или ширины.
+    - **createElement**: создание HTML элемента.
+    - **save**:сохранение в базу данных.
+    - **load**:загрузка из базы данных.
+    - **remove**:удаление из базы данных.
+    - **changeName**:смена наименования.
+    - **getName**:возврат наименования.
+    - **getId**:возврат id.
+    - **changeSize**:изменение высоты и/или ширины.
   
   **AnchorPoint**
   
   Поля:
-- **element**
-    - **left**
-    - **bottom**
-    - **rotate**
-    - **duration**
-    - **skinElement**
-    - **skinSrc**
+  - **element**
+  - **left**
+  - **bottom**
+  - **rotate**
+  - **duration**
+  - **skinElement**
+  - **skinSrc**
     
   Методы:
-    - **createElement**
+  - **createElement**
   
   **AnchorPointAnimation**
   
