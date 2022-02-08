@@ -66,11 +66,5 @@ Class extended from State, keep settings and methods of interaction state of act
 Class extended from State, keep settings and methods of death state of actor.
 ## Rig
 Class for handling position and rotations of gameobject achor points. 
-## Skin
-Class for handling image sources of gameobject.
-## Animation
-Class for describing animation variant.
-
-
 
 
