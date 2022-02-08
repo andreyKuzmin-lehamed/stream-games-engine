@@ -119,6 +119,8 @@
  
   - **removeAnchorPoint**: удалить якорную точку;
 
+  - **renameAnchorPoint**: переименовать якорную точку;
+
   - **moveAnchorPoint**: изменить положение якорной точки;
 
   - **changeAnchorPointDuration**: изменить скорость анимации якорной точки;
